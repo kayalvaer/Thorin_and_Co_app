@@ -14,7 +14,6 @@ entrypoints==0.3
 filelock==3.0.12
 Flask==1.1.2
 ipykernel==5.4.3
-ipython==7.20.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.3
 itsdangerous==1.1.0
@@ -65,4 +64,5 @@ virtualenv==20.4.2
 wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==1.0.1
+wget==3.2
 widgetsnbextension==3.5.1
